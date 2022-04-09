@@ -1,1 +1,1 @@
-"CONDITIONAL OPERATORS IN C"
+Codingin C progaming
