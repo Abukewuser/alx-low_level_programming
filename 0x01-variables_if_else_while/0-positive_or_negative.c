@@ -1,6 +1,6 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 /**
  * main - main block
  * Description: Get a random number and print the number
@@ -22,3 +22,4 @@ int main(void)
 		printf("%i is zero\n", n);
 
 	return (0);
+}
