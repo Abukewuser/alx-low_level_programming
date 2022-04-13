@@ -1,1 +1,1 @@
-this repository introduce C programing language
+This repo contains projectsin alx low level programing
